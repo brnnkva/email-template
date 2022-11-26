@@ -4,12 +4,12 @@
 }
 
 body {
-max-width: 917px;
-max-height: 505px;
+width: 917px;
+height: 505px;
 position: absolute;
 background-image: url("/media/Vector.png");
 background-repeat: no-repeat;
-background-position: 0px 210px;
+background-position: 0px 220px;
 color: var(--text-color);
 }
 
@@ -43,7 +43,6 @@ a {
     font-family: Poppins,sans-serif;
     font-weight: 300;
     font-size: 16px;
-    line-height: 18px;
 }
 
 .footer p {
