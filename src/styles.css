@@ -1,7 +1,10 @@
 body {
-width: 917px;
-height: 505px;
+max-width: 917px;
+max-height: 505px;
 position: absolute;
+background-image: url("/media/Vector.png");
+background-repeat: no-repeat;
+background-position: 0px 210px;
 }
 
 .container {
